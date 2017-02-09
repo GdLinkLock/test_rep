@@ -1,0 +1,6 @@
+[submodule "sub/liba"]
+	path = sub/liba
+	url = https://github.com/GdLinkLock/AutoMaker.git
+[submodule "sub/libb"]
+	path = sub/libb
+	url = https://github.com/GdLinkLock/gdlinklock.git
